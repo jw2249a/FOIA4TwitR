@@ -1,2 +1,2 @@
 # TwitRsucks
-Set up an R script to bypass Twitter API (shhhhhhhh)
+Set up an Python script to bypass Twitter API (shhhhhhhh)
