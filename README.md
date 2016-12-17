@@ -1,8 +1,8 @@
 # Tweets4All
 
-** Set up an Python script to bypass Twitter API. 
+#### Set up an Python script to bypass Twitter API. 
 
-### Twitter's API is pointless
+## Twitter's API is pointless
 * unless i wanted to kitty-script up some spambots, there is not point to using their unnecessarily
   limited API. 
 
@@ -15,5 +15,5 @@
   nonsense. Did Google ask every single website owner whether it could crawl the expanse of the internet?
   No, because that would be absolutely insane.
 
-### So this is...
-A web scraper for Twitter that doesn't really scrape so much as browse. 
+## So this is...
+#### A web scraper for Twitter that doesn't really scrape so much as browse. 
