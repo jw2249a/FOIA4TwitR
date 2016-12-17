@@ -15,5 +15,5 @@ Set up an Python script to bypass Twitter API.
   nonsense. Did Google ask every single website owner whether it could crawl the expanse of the internet?
   No, because that would be absolutely insane.
 
-# So this is...
+### So this is...
 A web scraper for Twitter that doesn't really scrape so much as browse. 
