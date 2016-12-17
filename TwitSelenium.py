@@ -1,4 +1,4 @@
-# begin with a big thank you to dawran liou for posting about selenium
+# using selenium bc Twitter would honestly yell at a kid for scraping their own knee
 import time
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
