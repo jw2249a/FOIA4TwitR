@@ -3,7 +3,7 @@
 Set up an Python script to bypass Twitter API (shhhhhhhh)
 
 
-# Just some context and a few comments on why Twitter kind of sucks
+* Just some context and a few comments on why Twitter kind of sucks
 There is essentially no technological difference...
 
 # Wait first I should also mention Twitter's API is pointless
