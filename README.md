@@ -1,8 +1,8 @@
 # Tweets4All
 
-Set up an Python script to bypass Twitter API. 
+** Set up an Python script to bypass Twitter API. 
 
-## Twitter's API is pointless
+### Twitter's API is pointless
 * unless i wanted to kitty-script up some spambots, there is not point to using their unnecessarily
   limited API. 
 
