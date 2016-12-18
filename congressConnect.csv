@@ -1,541 +1,540 @@
-"","official_full","gender","party","state","birthday"
-"1","Sherrod Brown","M","Democrat","OH","1952-11-09"
-"2","Maria Cantwell","F","Democrat","WA","1958-10-13"
-"3","Benjamin L. Cardin","M","Democrat","MD","1943-10-05"
-"4","Thomas R. Carper","M","Democrat","DE","1947-01-23"
-"5","Robert P. Casey, Jr.","M","Democrat","PA","1960-04-13"
-"6","Bob Corker","M","Republican","TN","1952-08-24"
-"7","Dianne Feinstein","F","Democrat","CA","1933-06-22"
-"8","Orrin G. Hatch","M","Republican","UT","1934-03-22"
-"9","Amy Klobuchar","F","Democrat","MN","1960-05-25"
-"10","Claire McCaskill","F","Democrat","MO","1953-07-24"
-"11","Robert Menendez","M","Democrat","NJ","1954-01-01"
-"12","Bill Nelson","M","Democrat","FL","1942-09-29"
-"13","Bernard Sanders","M","Independent","VT","1941-09-08"
-"14","Debbie Stabenow","F","Democrat","MI","1950-04-29"
-"15","Jon Tester","M","Democrat","MT","1956-08-21"
-"16","Sheldon Whitehouse","M","Democrat","RI","1955-10-20"
-"17","John Barrasso","M","Republican","WY","1952-07-21"
-"18","Roger F. Wicker","M","Republican","MS","1951-07-05"
-"19","Lamar Alexander","M","Republican","TN","1940-07-03"
-"20","Thad Cochran","M","Republican","MS","1937-12-07"
-"21","Susan M. Collins","F","Republican","ME","1952-12-07"
-"22","John Cornyn","M","Republican","TX","1952-02-02"
-"23","Richard J. Durbin","M","Democrat","IL","1944-11-21"
-"24","Michael B. Enzi","M","Republican","WY","1944-02-01"
-"25","Lindsey Graham","M","Republican","SC","1955-07-09"
-"26","James M. Inhofe","M","Republican","OK","1934-11-17"
-"27","Mitch McConnell","M","Republican","KY","1942-02-20"
-"28","Jeff Merkley","M","Democrat","OR","1956-10-24"
-"29","Jack Reed","M","Democrat","RI","1949-11-12"
-"30","James E. Risch","M","Republican","ID","1943-05-03"
-"31","Pat Roberts","M","Republican","KS","1936-04-20"
-"32","Jeff Sessions","M","Republican","AL","1946-12-24"
-"33","Jeanne Shaheen","F","Democrat","NH","1947-01-28"
-"34","Tom Udall","M","Democrat","NM","1948-05-18"
-"35","Mark R. Warner","M","Democrat","VA","1954-12-15"
-"36","Kirsten E. Gillibrand","F","Democrat","NY","1966-12-09"
-"37","Al Franken","M","Democrat","MN","1951-05-21"
-"38","Christopher A. Coons","M","Democrat","DE","1963-09-09"
-"39","Joe Manchin, III","M","Democrat","WV","1947-08-24"
-"40","Robert B. Aderholt","M","Republican","AL","1965-07-22"
-"41","Justin Amash","M","Republican","MI","1980-04-18"
-"42","Kelly Ayotte","F","Republican","NH","1968-06-27"
-"43","Tammy Baldwin","F","Democrat","WI","1962-02-11"
-"44","Lou Barletta","M","Republican","PA","1956-01-28"
-"45","Joe Barton","M","Republican","TX","1949-09-15"
-"46","Karen Bass","F","Democrat","CA","1953-10-03"
-"47","Xavier Becerra","M","Democrat","CA","1958-01-26"
-"48","Dan Benishek","M","Republican","MI","1952-04-20"
-"49","Michael F. Bennet","M","Democrat","CO","1964-11-28"
-"50","Gus M. Bilirakis","M","Republican","FL","1963-02-08"
-"51","Rob Bishop","M","Republican","UT","1951-07-13"
-"52","Sanford D. Bishop Jr.","M","Democrat","GA","1947-02-04"
-"53","Diane Black","F","Republican","TN","1951-01-16"
-"54","Marsha Blackburn","F","Republican","TN","1952-06-06"
-"55","Earl Blumenauer","M","Democrat","OR","1948-08-16"
-"56","Richard Blumenthal","M","Democrat","CT","1946-02-13"
-"57","Roy Blunt","M","Republican","MO","1950-01-10"
-"58","John Boozman","M","Republican","AR","1950-12-10"
-"59","Madeleine Z. Bordallo","F","Democrat","GU","1933-05-31"
-"60","Charles W. Boustany Jr.","M","Republican","LA","1956-02-21"
-"61","Barbara Boxer","F","Democrat","CA","1940-11-11"
-"62","Kevin Brady","M","Republican","TX","1955-04-11"
-"63","Robert A. Brady","M","Democrat","PA","1945-04-07"
-"64","Mo Brooks","M","Republican","AL","1954-04-29"
-"65","Corrine Brown","F","Democrat","FL","1946-11-11"
-"66","Vern Buchanan","M","Republican","FL","1951-05-08"
-"67","Larry Bucshon","M","Republican","IN","1962-05-31"
-"68","Michael C. Burgess","M","Republican","TX","1950-12-23"
-"69","Richard Burr","M","Republican","NC","1955-11-30"
-"70","G. K. Butterfield","M","Democrat","NC","1947-04-27"
-"71","Ken Calvert","M","Republican","CA","1953-06-08"
-"72","Shelley Moore Capito","F","Republican","WV","1953-11-26"
-"73","Lois Capps","F","Democrat","CA","1938-01-10"
-"74","Michael E. Capuano","M","Democrat","MA","1952-01-09"
-"75","John C. Carney Jr.","M","Democrat","DE","1956-05-20"
-"76","André Carson","M","Democrat","IN","1974-10-16"
-"77","John R. Carter","M","Republican","TX","1941-11-06"
-"78","Bill Cassidy","M","Republican","LA","1957-09-28"
-"79","Kathy Castor","F","Democrat","FL","1966-08-20"
-"80","Steve Chabot","M","Republican","OH","1953-01-22"
-"81","Jason Chaffetz","M","Republican","UT","1967-03-26"
-"82","Judy Chu","F","Democrat","CA","1953-07-07"
-"83","David N. Cicilline","M","Democrat","RI","1961-07-15"
-"84","Yvette D. Clarke","F","Democrat","NY","1964-11-21"
-"85","Wm. Lacy Clay","M","Democrat","MO","1956-07-27"
-"86","Emanuel Cleaver","M","Democrat","MO","1944-10-26"
-"87","James E. Clyburn","M","Democrat","SC","1940-07-21"
-"88","Daniel Coats","M","Republican","IN","1943-05-16"
-"89","Mike Coffman","M","Republican","CO","1955-03-19"
-"90","Steve Cohen","M","Democrat","TN","1949-05-24"
-"91","Tom Cole","M","Republican","OK","1949-04-28"
-"92","K. Michael Conaway","M","Republican","TX","1948-06-11"
-"93","Gerald E. Connolly","M","Democrat","VA","1950-03-30"
-"94","John Conyers Jr.","M","Democrat","MI","1929-05-16"
-"95","Jim Cooper","M","Democrat","TN","1954-06-19"
-"96","Jim Costa","M","Democrat","CA","1952-04-13"
-"97","Joe Courtney","M","Democrat","CT","1953-04-06"
-"98","Mike Crapo","M","Republican","ID","1951-05-20"
-"99","Eric A. ""Rick"" Crawford","M","Republican","AR","1966-01-22"
-"100","Ander Crenshaw","M","Independent","FL","1944-09-01"
-"101","Joseph Crowley","M","Democrat","NY","1962-03-16"
-"102","Henry Cuellar","M","Democrat","TX","1955-09-19"
-"103","John Abney Culberson","M","Republican","TX","1956-08-24"
-"104","Elijah E. Cummings","M","Democrat","MD","1951-01-18"
-"105","Danny K. Davis","M","Democrat","IL","1941-09-06"
-"106","Susan A. Davis","F","Democrat","CA","1944-04-13"
-"107","Peter A. DeFazio","M","Democrat","OR","1947-05-27"
-"108","Diana DeGette","F","Democrat","CO","1957-07-29"
-"109","Rosa L. DeLauro","F","Democrat","CT","1943-03-02"
-"110","Jeff Denham","M","Republican","CA","1967-07-29"
-"111","Charles W. Dent","M","Republican","PA","1960-05-24"
-"112","Scott DesJarlais","M","Republican","TN","1964-02-21"
-"113","Theodore E. Deutch","M","Democrat","FL","1966-05-07"
-"114","Mario Diaz-Balart","M","Republican","FL","1961-09-25"
-"115","Lloyd Doggett","M","Democrat","TX","1946-10-06"
-"116","Joe Donnelly","M","Democrat","IN","1955-09-28"
-"117","Michael F. Doyle","M","Democrat","PA","1953-08-05"
-"118","Sean P. Duffy","M","Republican","WI","1971-10-03"
-"119","Jeff Duncan","M","Republican","SC","1966-01-07"
-"120","John J. Duncan Jr.","M","Republican","TN","1947-07-21"
-"121","Donna F. Edwards","F","Democrat","MD","1958-06-28"
-"122","Keith Ellison","M","Democrat","MN","1963-08-04"
-"123","Renee L. Ellmers","F","Republican","NC","1964-02-09"
-"124","Eliot L. Engel","M","Democrat","NY","1947-02-18"
-"125","Anna G. Eshoo","F","Democrat","CA","1942-12-13"
-"126","Blake Farenthold","M","Republican","TX","1961-12-12"
-"127","Sam Farr","M","Democrat","CA","1941-07-04"
-"128","Stephen Lee Fincher","M","Republican","TN","1973-02-07"
-"129","Michael G. Fitzpatrick","M","Republican","PA","1963-06-28"
-"130","Jeff Flake","M","Republican","AZ","1962-12-31"
-"131","Charles J. ""Chuck"" Fleischmann","M","Republican","TN","1962-10-11"
-"132","John Fleming","M","Republican","LA","1951-07-05"
-"133","Bill Flores","M","Republican","TX","1954-02-25"
-"134","J. Randy Forbes","M","Republican","VA","1952-02-17"
-"135","Jeff Fortenberry","M","Republican","NE","1960-12-27"
-"136","Virginia Foxx","F","Republican","NC","1943-06-29"
-"137","Trent Franks","M","Republican","AZ","1957-06-19"
-"138","Rodney P. Frelinghuysen","M","Republican","NJ","1946-04-29"
-"139","Marcia L. Fudge","F","Democrat","OH","1952-10-29"
-"140","John Garamendi","M","Democrat","CA","1945-01-24"
-"141","Cory Gardner","M","Republican","CO","1974-08-22"
-"142","Scott Garrett","M","Republican","NJ","1959-07-09"
-"143","Bob Gibbs","M","Republican","OH","1954-06-14"
-"144","Christopher P. Gibson","M","Republican","NY","1964-05-13"
-"145","Louie Gohmert","M","Republican","TX","1953-08-18"
-"146","Bob Goodlatte","M","Republican","VA","1952-09-22"
-"147","Paul A. Gosar","M","Republican","AZ","1958-11-22"
-"148","Trey Gowdy","M","Republican","SC","1964-08-22"
-"149","Kay Granger","F","Republican","TX","1943-01-18"
-"150","Chuck Grassley","M","Republican","IA","1933-09-17"
-"151","Sam Graves","M","Republican","MO","1963-11-07"
-"152","Tom Graves","M","Republican","GA","1970-02-03"
-"153","Al Green","M","Democrat","TX","1947-09-01"
-"154","Gene Green","M","Democrat","TX","1947-10-17"
-"155","H. Morgan Griffith","M","Republican","VA","1958-03-15"
-"156","Raúl M. Grijalva","M","Democrat","AZ","1948-02-19"
-"157","Brett Guthrie","M","Republican","KY","1964-02-18"
-"158","Luis V. Gutiérrez","M","Democrat","IL","1953-12-10"
-"159","Richard L. Hanna","M","Republican","NY","1951-01-25"
-"160","Gregg Harper","M","Republican","MS","1956-06-01"
-"161","Andy Harris","M","Republican","MD","1957-01-25"
-"162","Vicky Hartzler","F","Republican","MO","1960-10-13"
-"163","Alcee L. Hastings","M","Democrat","FL","1936-09-05"
-"164","Joseph J. Heck","M","Republican","NV","1961-10-30"
-"165","Martin Heinrich","M","Democrat","NM","1971-10-17"
-"166","Jeb Hensarling","M","Republican","TX","1957-05-29"
-"167","Jaime Herrera Beutler","F","Republican","WA","1978-11-03"
-"168","Brian Higgins","M","Democrat","NY","1959-10-06"
-"169","James A. Himes","M","Democrat","CT","1966-07-05"
-"170","Rubén Hinojosa","M","Democrat","TX","1940-08-20"
-"171","Mazie K. Hirono","F","Democrat","HI","1947-11-03"
-"172","John Hoeven","M","Republican","ND","1957-03-13"
-"173","Michael M. Honda","M","Democrat","CA","1941-06-27"
-"174","Steny H. Hoyer","M","Democrat","MD","1939-06-14"
-"175","Tim Huelskamp","M","Republican","KS","1968-11-11"
-"176","Bill Huizenga","M","Republican","MI","1969-01-31"
-"177","Randy Hultgren","M","Republican","IL","1966-03-01"
-"178","Duncan Hunter","M","Republican","CA","1976-12-07"
-"179","Robert Hurt","M","Republican","VA","1969-06-16"
-"180","Johnny Isakson","M","Republican","GA","1944-12-28"
-"181","Steve Israel","M","Democrat","NY","1958-05-30"
-"182","Darrell E. Issa","M","Republican","CA","1953-11-01"
-"183","Sheila Jackson Lee","F","Democrat","TX","1950-01-12"
-"184","Lynn Jenkins","F","Republican","KS","1963-06-10"
-"185","Bill Johnson","M","Republican","OH","1954-11-10"
-"186","Eddie Bernice Johnson","F","Democrat","TX","1935-12-03"
-"187","Henry C. ""Hank"" Johnson Jr.","M","Democrat","GA","1954-10-02"
-"188","Ron Johnson","M","Republican","WI","1955-04-08"
-"189","Sam Johnson","M","Republican","TX","1930-10-11"
-"190","Walter B. Jones","M","Republican","NC","1943-02-10"
-"191","Jim Jordan","M","Republican","OH","1964-02-17"
-"192","Marcy Kaptur","F","Democrat","OH","1946-06-17"
-"193","William R. Keating","M","Democrat","MA","1952-09-06"
-"194","Mike Kelly","M","Republican","PA","1948-05-10"
-"195","Ron Kind","M","Democrat","WI","1963-03-16"
-"196","Peter T. King","M","Republican","NY","1944-04-05"
-"197","Steve King","M","Republican","IA","1949-05-28"
-"198","Adam Kinzinger","M","Republican","IL","1978-02-27"
-"199","Mark Kirk","M","Republican","IL","1959-09-15"
-"200","John Kline","M","Republican","MN","1947-09-06"
-"201","Raúl R. Labrador","M","Republican","ID","1967-12-08"
-"202","Doug Lamborn","M","Republican","CO","1954-05-24"
-"203","Leonard Lance","M","Republican","NJ","1952-06-25"
-"204","James R. Langevin","M","Democrat","RI","1964-04-22"
-"205","James Lankford","M","Republican","OK","1968-03-04"
-"206","Rick Larsen","M","Democrat","WA","1965-06-15"
-"207","John B. Larson","M","Democrat","CT","1948-07-22"
-"208","Robert E. Latta","M","Republican","OH","1956-04-18"
-"209","Patrick J. Leahy","M","Democrat","VT","1940-03-31"
-"210","Barbara Lee","F","Democrat","CA","1946-07-16"
-"211","Mike Lee","M","Republican","UT","1971-06-04"
-"212","Sander M. Levin","M","Democrat","MI","1931-09-06"
-"213","John Lewis","M","Democrat","GA","1940-02-21"
-"214","Daniel Lipinski","M","Democrat","IL","1966-07-15"
-"215","Frank A. LoBiondo","M","Republican","NJ","1946-05-12"
-"216","David Loebsack","M","Democrat","IA","1952-12-23"
-"217","Zoe Lofgren","F","Democrat","CA","1947-12-21"
-"218","Billy Long","M","Republican","MO","1955-08-11"
-"219","Nita M. Lowey","F","Democrat","NY","1937-07-05"
-"220","Frank D. Lucas","M","Republican","OK","1960-01-06"
-"221","Blaine Luetkemeyer","M","Republican","MO","1952-05-07"
-"222","Ben Ray Luján","M","Democrat","NM","1972-06-07"
-"223","Cynthia M. Lummis","F","Republican","WY","1954-09-10"
-"224","Stephen F. Lynch","M","Democrat","MA","1955-03-31"
-"225","Carolyn B. Maloney","F","Democrat","NY","1946-02-19"
-"226","Kenny Marchant","M","Republican","TX","1951-02-23"
-"227","Tom Marino","M","Republican","PA","1952-08-15"
-"228","Edward J. Markey","M","Democrat","MA","1946-07-11"
-"229","Doris O. Matsui","F","Democrat","CA","1944-09-25"
-"230","John McCain","M","Republican","AZ","1936-08-29"
-"231","Kevin McCarthy","M","Republican","CA","1965-01-26"
-"232","Michael T. McCaul","M","Republican","TX","1962-01-14"
-"233","Tom McClintock","M","Republican","CA","1956-07-10"
-"234","Betty McCollum","F","Democrat","MN","1954-07-12"
-"235","Jim McDermott","M","Democrat","WA","1936-12-28"
-"236","James P. McGovern","M","Democrat","MA","1959-11-20"
-"237","Patrick T. McHenry","M","Republican","NC","1975-10-22"
-"238","David B. McKinley","M","Republican","WV","1947-03-28"
-"239","Cathy McMorris Rodgers","F","Republican","WA","1969-05-22"
-"240","Jerry McNerney","M","Democrat","CA","1951-06-18"
-"241","Patrick Meehan","M","Republican","PA","1955-10-20"
-"242","Gregory W. Meeks","M","Democrat","NY","1953-09-25"
-"243","John L. Mica","M","Republican","FL","1943-01-27"
-"244","Barbara A. Mikulski","F","Democrat","MD","1936-07-20"
-"245","Candice S. Miller","F","Republican","MI","1954-05-07"
-"246","Jeff Miller","M","Republican","FL","1959-06-27"
-"247","Gwen Moore","F","Democrat","WI","1951-04-18"
-"248","Jerry Moran","M","Republican","KS","1954-05-29"
-"249","Mick Mulvaney","M","Republican","SC","1967-07-21"
-"250","Lisa Murkowski","F","Republican","AK","1957-05-22"
-"251","Christopher Murphy","M","Democrat","CT","1973-08-03"
-"252","Tim Murphy","M","Republican","PA","1952-09-11"
-"253","Patty Murray","F","Democrat","WA","1950-10-11"
-"254","Jerrold Nadler","M","Democrat","NY","1947-06-13"
-"255","Grace F. Napolitano","F","Democrat","CA","1936-12-04"
-"256","Richard E. Neal","M","Democrat","MA","1949-02-14"
-"257","Randy Neugebauer","M","Republican","TX","1949-12-24"
-"258","Kristi L. Noem","F","Republican","SD","1971-11-30"
-"259","Eleanor Holmes Norton","F","Democrat","DC","1937-06-13"
-"260","Richard B. Nugent","M","Republican","FL","1951-05-26"
-"261","Devin Nunes","M","Republican","CA","1973-10-01"
-"262","Pete Olson","M","Republican","TX","1962-12-09"
-"263","Steven M. Palazzo","M","Republican","MS","1970-02-21"
-"264","Frank Pallone Jr.","M","Democrat","NJ","1951-10-30"
-"265","Bill Pascrell Jr.","M","Democrat","NJ","1937-01-25"
-"266","Rand Paul","M","Republican","KY","1963-01-07"
-"267","Erik Paulsen","M","Republican","MN","1965-05-14"
-"268","Stevan Pearce","M","Republican","NM","1947-08-24"
-"269","Nancy Pelosi","F","Democrat","CA","1940-03-26"
-"270","Ed Perlmutter","M","Democrat","CO","1953-05-01"
-"271","Gary C. Peters","M","Democrat","MI","1958-12-01"
-"272","Collin C. Peterson","M","Democrat","MN","1944-06-29"
-"273","Pedro R. Pierluisi","M","Democrat","PR","1959-04-26"
-"274","Chellie Pingree","F","Democrat","ME","1955-04-02"
-"275","Joseph R. Pitts","M","Republican","PA","1939-10-10"
-"276","Ted Poe","M","Republican","TX","1948-09-10"
-"277","Jared Polis","M","Democrat","CO","1975-05-12"
-"278","Mike Pompeo","M","Republican","KS","1963-12-30"
-"279","Rob Portman","M","Republican","OH","1955-12-19"
-"280","Bill Posey","M","Republican","FL","1947-12-18"
-"281","David E. Price","M","Democrat","NC","1940-08-17"
-"282","Tom Price","M","Republican","GA","1954-10-08"
-"283","Mike Quigley","M","Democrat","IL","1958-10-17"
-"284","Charles B. Rangel","M","Democrat","NY","1930-06-11"
-"285","Tom Reed","M","Republican","NY","1971-11-18"
-"286","David G. Reichert","M","Republican","WA","1950-08-29"
-"287","Harry Reid","M","Democrat","NV","1939-12-02"
-"288","James B. Renacci","M","Republican","OH","1958-12-03"
-"289","Reid J. Ribble","M","Republican","WI","1956-04-05"
-"290","Cedric L. Richmond","M","Democrat","LA","1973-09-13"
-"291","E. Scott Rigell","M","Republican","VA","1960-05-28"
-"292","Martha Roby","F","Republican","AL","1976-07-27"
-"293","David P. Roe","M","Republican","TN","1945-07-21"
-"294","Harold Rogers","M","Republican","KY","1937-12-31"
-"295","Mike Rogers","M","Republican","AL","1958-07-16"
-"296","Dana Rohrabacher","M","Republican","CA","1947-06-21"
-"297","Todd Rokita","M","Republican","IN","1970-02-09"
-"298","Thomas J. Rooney","M","Republican","FL","1970-11-21"
-"299","Ileana Ros-Lehtinen","F","Republican","FL","1952-07-15"
-"300","Peter J. Roskam","M","Republican","IL","1961-09-13"
-"301","Dennis A. Ross","M","Republican","FL","1959-10-18"
-"302","Lucille Roybal-Allard","F","Democrat","CA","1941-06-12"
-"303","Edward R. Royce","M","Republican","CA","1951-10-12"
-"304","Marco Rubio","M","Republican","FL","1971-05-28"
-"305","C. A. Dutch Ruppersberger","M","Democrat","MD","1946-01-31"
-"306","Bobby L. Rush","M","Democrat","IL","1946-11-23"
-"307","Paul D. Ryan","M","Republican","WI","1970-01-29"
-"308","Tim Ryan","M","Democrat","OH","1973-07-16"
-"309","Gregorio Kilili Camacho Sablan","M","Democrat","MP","1955-01-19"
-"310","Loretta Sanchez","F","Democrat","CA","1960-01-07"
-"311","John P. Sarbanes","M","Democrat","MD","1962-05-22"
-"312","Steve Scalise","M","Republican","LA","1965-10-06"
-"313","Janice D. Schakowsky","F","Democrat","IL","1944-05-26"
-"314","Adam B. Schiff","M","Democrat","CA","1960-06-22"
-"315","Kurt Schrader","M","Democrat","OR","1951-10-19"
-"316","Charles E. Schumer","M","Democrat","NY","1950-11-23"
-"317","David Schweikert","M","Republican","AZ","1962-03-03"
-"318","Austin Scott","M","Republican","GA","1969-12-10"
-"319","David Scott","M","Democrat","GA","1945-06-27"
-"320","Robert C. ""Bobby"" Scott","M","Democrat","VA","1947-04-30"
-"321","Tim Scott","M","Republican","SC","1965-09-19"
-"322","F. James Sensenbrenner Jr.","M","Republican","WI","1943-06-14"
-"323","José E. Serrano","M","Democrat","NY","1943-10-24"
-"324","Pete Sessions","M","Republican","TX","1955-03-22"
-"325","Terri A. Sewell","F","Democrat","AL","1965-01-01"
-"326","Richard C. Shelby","M","Democrat","AL","1934-05-06"
-"327","Brad Sherman","M","Democrat","CA","1954-10-24"
-"328","John Shimkus","M","Republican","IL","1958-02-21"
-"329","Bill Shuster","M","Republican","PA","1961-01-10"
-"330","Michael K. Simpson","M","Republican","ID","1950-09-08"
-"331","Albio Sires","M","Democrat","NJ","1951-01-26"
-"332","Louise McIntosh Slaughter","F","Democrat","NY","1929-08-14"
-"333","Adam Smith","M","Democrat","WA","1965-06-15"
-"334","Adrian Smith","M","Republican","NE","1970-12-19"
-"335","Christopher H. Smith","M","Republican","NJ","1953-03-04"
-"336","Lamar Smith","M","Republican","TX","1947-11-19"
-"337","Jackie Speier","F","Democrat","CA","1950-05-14"
-"338","Steve Stivers","M","Republican","OH","1965-03-24"
-"339","Marlin A. Stutzman","M","Republican","IN","1976-08-31"
-"340","Linda T. Sánchez","F","Democrat","CA","1969-01-28"
-"341","Bennie G. Thompson","M","Democrat","MS","1948-01-28"
-"342","Mike Thompson","M","Democrat","CA","1951-01-24"
-"343","Glenn Thompson","M","Republican","PA","1959-07-27"
-"344","Mac Thornberry","M","Republican","TX","1958-07-15"
-"345","John Thune","M","Republican","SD","1961-01-07"
-"346","Patrick J. Tiberi","M","Republican","OH","1962-10-21"
-"347","Scott R. Tipton","M","Republican","CO","1956-11-09"
-"348","Paul Tonko","M","Democrat","NY","1949-06-18"
-"349","Patrick J. Toomey","M","Republican","PA","1961-11-17"
-"350","Niki Tsongas","F","Democrat","MA","1946-04-26"
-"351","Michael R. Turner","M","Republican","OH","1960-01-11"
-"352","Fred Upton","M","Republican","MI","1953-04-23"
-"353","Chris Van Hollen","M","Democrat","MD","1959-01-10"
-"354","Nydia M. Velázquez","F","Democrat","NY","1953-03-28"
-"355","Peter J. Visclosky","M","Democrat","IN","1949-08-13"
-"356","David Vitter","M","Republican","LA","1961-05-03"
-"357","Tim Walberg","M","Republican","MI","1951-04-12"
-"358","Greg Walden","M","Republican","OR","1957-01-10"
-"359","Timothy J. Walz","M","Democrat","MN","1964-04-06"
-"360","Debbie Wasserman Schultz","F","Democrat","FL","1966-09-27"
-"361","Maxine Waters","F","Democrat","CA","1938-08-15"
-"362","Daniel Webster","M","Republican","FL","1949-04-27"
-"363","Peter Welch","M","Democrat","VT","1947-05-02"
-"364","Lynn A. Westmoreland","M","Republican","GA","1950-04-02"
-"365","Joe Wilson","M","Republican","SC","1947-07-31"
-"366","Frederica S. Wilson","F","Democrat","FL","1942-11-05"
-"367","Robert J. Wittman","M","Republican","VA","1959-02-03"
-"368","Steve Womack","M","Republican","AR","1957-02-18"
-"369","Rob Woodall","M","Republican","GA","1970-02-11"
-"370","Ron Wyden","M","Democrat","OR","1949-05-03"
-"371","John A. Yarmuth","M","Democrat","KY","1947-11-04"
-"372","Kevin Yoder","M","Republican","KS","1976-01-08"
-"373","Don Young","M","Republican","AK","1933-06-09"
-"374","Todd Young","M","Republican","IN","1972-08-24"
-"375","Dean Heller","M","Republican","NV","1960-05-10"
-"376","Mark E. Amodei","M","Republican","NV","1958-06-12"
-"377","Suzanne Bonamici","F","Democrat","OR","1954-10-14"
-"378","Suzan K. DelBene","F","Democrat","WA","1962-02-17"
-"379","Thomas Massie","M","Republican","KY","1971-01-13"
-"380","Donald M. Payne Jr.","M","Democrat","NJ","1958-12-17"
-"381","Brian Schatz","M","Democrat","HI","1972-10-20"
-"382","Matt Salmon","M","Republican","AZ","1958-01-21"
-"383","Bill Foster","M","Democrat","IL","1955-10-07"
-"384","Alan Grayson","M","Democrat","FL","1958-03-13"
-"385","Ann Kirkpatrick","F","Democrat","AZ","1950-03-24"
-"386","Dina Titus","F","Democrat","NV","1950-05-23"
-"387","Tom Cotton","M","Republican","AR","1977-05-13"
-"388","Kyrsten Sinema","F","Democrat","AZ","1976-07-12"
-"389","Doug LaMalfa","M","Republican","CA","1960-07-02"
-"390","Jared Huffman","M","Democrat","CA","1964-02-18"
-"391","Ami Bera","M","Democrat","CA","1965-03-02"
-"392","Paul Cook","M","Republican","CA","1943-03-03"
-"393","Eric Swalwell","M","Democrat","CA","1980-11-16"
-"394","David G. Valadao","M","Republican","CA","1977-04-14"
-"395","Julia Brownley","F","Democrat","CA","1952-08-28"
-"396","Tony Cárdenas","M","Democrat","CA","1963-03-31"
-"397","Raul Ruiz","M","Democrat","CA","1972-08-25"
-"398","Mark Takano","M","Democrat","CA","1960-12-10"
-"399","Alan S. Lowenthal","M","Democrat","CA","1941-03-08"
-"400","Juan Vargas","M","Democrat","CA","1961-03-07"
-"401","Scott H. Peters","M","Democrat","CA","1958-06-17"
-"402","Elizabeth H. Esty","F","Democrat","CT","1959-08-25"
-"403","Ted S. Yoho","M","Republican","FL","1955-04-13"
-"404","Ron DeSantis","M","Republican","FL","1978-09-14"
-"405","Patrick Murphy","M","Democrat","FL","1983-03-30"
-"406","Lois Frankel","F","Democrat","FL","1948-05-16"
-"407","Doug Collins","M","Republican","GA","1966-08-16"
-"408","Tulsi Gabbard","F","Democrat","HI","1981-04-12"
-"409","Tammy Duckworth","F","Democrat","IL","1968-03-12"
-"410","Rodney Davis","M","Republican","IL","1970-01-05"
-"411","Cheri Bustos","F","Democrat","IL","1961-10-17"
-"412","Jackie Walorski","F","Republican","IN","1963-08-17"
-"413","Susan W. Brooks","F","Republican","IN","1960-08-25"
-"414","Luke Messer","M","Republican","IN","1969-02-27"
-"415","Andy Barr","M","Republican","KY","1973-07-24"
-"416","Elizabeth Warren","F","Democrat","MA","1949-06-22"
-"417","Joseph P. Kennedy III","M","Democrat","MA","1980-10-04"
-"418","John K. Delaney","M","Democrat","MD","1963-04-16"
-"419","Angus S. King, Jr.","M","Independent","ME","1944-03-31"
-"420","Daniel T. Kildee","M","Democrat","MI","1958-08-11"
-"421","Richard M. Nolan","M","Democrat","MN","1943-12-17"
-"422","Ann Wagner","F","Republican","MO","1962-09-13"
-"423","Steve Daines","M","Republican","MT","1962-08-20"
-"424","Richard Hudson","M","Republican","NC","1971-11-04"
-"425","Robert Pittenger","M","Republican","NC","1948-08-15"
-"426","Mark Meadows","M","Republican","NC","1959-07-28"
-"427","George Holding","M","Republican","NC","1968-04-17"
-"428","Heidi Heitkamp","F","Democrat","ND","1955-10-30"
-"429","Kevin Cramer","M","Republican","ND","1961-01-21"
-"430","Deb Fischer","F","Republican","NE","1951-03-01"
-"431","Ann M. Kuster","F","Democrat","NH","1956-09-05"
-"432","Michelle Lujan Grisham","F","Democrat","NM","1959-10-24"
-"433","Grace Meng","F","Democrat","NY","1975-10-01"
-"434","Hakeem S. Jeffries","M","Democrat","NY","1970-08-04"
-"435","Sean Patrick Maloney","M","Democrat","NY","1966-07-30"
-"436","Chris Collins","M","Republican","NY","1950-05-20"
-"437","Brad R. Wenstrup","M","Republican","OH","1958-06-17"
-"438","Joyce Beatty","F","Democrat","OH","1950-03-12"
-"439","David P. Joyce","M","Republican","OH","1957-03-17"
-"440","Jim Bridenstine","M","Republican","OK","1975-06-15"
-"441","Markwayne Mullin","M","Republican","OK","1977-07-26"
-"442","Scott Perry","M","Republican","PA","1962-05-27"
-"443","Keith J. Rothfus","M","Republican","PA","1962-04-25"
-"444","Matt Cartwright","M","Democrat","PA","1961-05-01"
-"445","Tom Rice","M","Republican","SC","1957-08-04"
-"446","Ted Cruz","M","Republican","TX","1970-12-22"
-"447","Randy K. Weber Sr.","M","Republican","TX","1953-07-02"
-"448","Beto O'Rourke","M","Democrat","TX","1972-09-26"
-"449","Joaquin Castro","M","Democrat","TX","1974-09-16"
-"450","Roger Williams","M","Republican","TX","1949-09-13"
-"451","Marc A. Veasey","M","Democrat","TX","1971-01-03"
-"452","Filemon Vela","M","Democrat","TX","1963-02-13"
-"453","Chris Stewart","M","Republican","UT","1960-07-15"
-"454","Tim Kaine","M","Democrat","VA","1958-02-26"
-"455","Derek Kilmer","M","Democrat","WA","1974-01-01"
-"456","Denny Heck","M","Democrat","WA","1952-07-29"
-"457","Mark Pocan","M","Democrat","WI","1964-08-14"
-"458","Robin L. Kelly","F","Democrat","IL","1956-04-30"
-"459","Mark Sanford","M","Republican","SC","1960-05-28"
-"460","Jason Smith","M","Republican","MO","1980-06-16"
-"461","Cory A. Booker","M","Democrat","NJ","1969-04-27"
-"462","Katherine M. Clark","F","Democrat","MA","1963-07-17"
-"463","Bradley Byrne","M","Republican","AL","1955-02-16"
-"464","David W. Jolly","M","Republican","FL","1972-10-31"
-"465","Curt Clawson","M","Republican","FL","1959-09-28"
-"466","Dave Brat","M","Republican","VA","1964-07-27"
-"467","Donald Norcross","M","Democrat","NJ","1958-12-13"
-"468","Alma S. Adams","F","Democrat","NC","1946-05-27"
-"469","Robert J. Dold","M","Republican","IL","1969-06-23"
-"470","Frank C. Guinta","M","Republican","NH","1970-09-26"
-"471","Gary J. Palmer","M","Republican","AL","1954-05-14"
-"472","J. French Hill","M","Republican","AR","1956-12-05"
-"473","Bruce Westerman","M","Republican","AR","1967-11-18"
-"474","Martha McSally","F","Republican","AZ","1966-03-22"
-"475","Ruben Gallego","M","Democrat","AZ","1979-11-20"
-"476","Mark DeSaulnier","M","Democrat","CA","1952-03-31"
-"477","Stephen Knight","M","Republican","CA","1966-12-17"
-"478","Pete Aguilar","M","Democrat","CA","1979-06-19"
-"479","Ted Lieu","M","Democrat","CA","1969-03-29"
-"480","Norma J. Torres","F","Democrat","CA","1965-04-04"
-"481","Mimi Walters","F","Republican","CA","1962-05-14"
-"482","Ken Buck","M","Republican","CO","1959-02-16"
-"483","Gwen Graham","F","Democrat","FL","1963-01-31"
-"484","Carlos Curbelo","M","Republican","FL","1980-03-01"
-"485","Earl L. ""Buddy"" Carter","M","Republican","GA","1957-09-06"
-"486","Jody B. Hice","M","Republican","GA","1960-04-22"
-"487","Barry Loudermilk","M","Republican","GA","1963-12-22"
-"488","Rick W. Allen","M","Republican","GA","1951-11-07"
-"489","Rod Blum","M","Republican","IA","1955-04-26"
-"490","David Young","M","Republican","IA","1968-05-11"
-"491","Mike Bost","M","Republican","IL","1960-12-30"
-"492","Ralph Lee Abraham","M","Republican","LA","1954-09-16"
-"493","Garret Graves","M","Republican","LA","1972-01-31"
-"494","Seth Moulton","M","Democrat","MA","1978-10-24"
-"495","Bruce Poliquin","M","Republican","ME","1953-11-01"
-"496","John R. Moolenaar","M","Republican","MI","1961-05-08"
-"497","Mike Bishop","M","Republican","MI","1967-03-18"
-"498","David A. Trott","M","Republican","MI","1960-10-16"
-"499","Debbie Dingell","F","Democrat","MI","1953-11-23"
-"500","Brenda L. Lawrence","F","Democrat","MI","1954-10-18"
-"501","Tom Emmer","M","Republican","MN","1961-03-03"
-"502","Ryan K. Zinke","M","Republican","MT","1961-11-01"
-"503","David Rouzer","M","Republican","NC","1972-02-16"
-"504","Brad Ashford","M","Democrat","NE","1949-11-10"
-"505","Thomas MacArthur","M","Republican","NJ","1960-10-16"
-"506","Bonnie Watson Coleman","F","Democrat","NJ","1945-02-06"
-"507","Cresent Hardy","M","Republican","NV","1957-06-23"
-"508","Lee M. Zeldin","M","Republican","NY","1980-01-30"
-"509","Kathleen M. Rice","F","Democrat","NY","1965-02-15"
-"510","Elise M. Stefanik","F","Republican","NY","1984-07-02"
-"511","John Katko","M","Republican","NY","1962-11-09"
-"512","Steve Russell","M","Republican","OK","1963-05-25"
-"513","Ryan A. Costello","M","Republican","PA","1976-09-07"
-"514","Brendan F. Boyle","M","Democrat","PA","1977-02-06"
-"515","John Ratcliffe","M","Republican","TX","1965-10-20"
-"516","Will Hurd","M","Republican","TX","1977-08-19"
-"517","Brian Babin","M","Republican","TX","1948-03-23"
-"518","Mia B. Love","F","Republican","UT","1975-12-06"
-"519","Donald S. Beyer Jr.","M","Democrat","VA","1950-06-20"
-"520","Barbara Comstock","F","Republican","VA","1959-06-30"
-"521","Stacey E. Plaskett","F","Democrat","VI","1964-05-13"
-"522","Dan Newhouse","M","Republican","WA","1955-07-10"
-"523","Glenn Grothman","M","Republican","WI","1955-07-03"
-"524","Alexander X. Mooney","M","Republican","WV","1971-06-05"
-"525","Evan H. Jenkins","M","Republican","WV","1960-09-12"
-"526","Aumua Amata Coleman Radewagen","F","Republican","AS","1947-12-29"
-"527","Daniel Sullivan","M","Republican","AK","1964-11-13"
-"528","David Perdue","M","Republican","GA","1949-12-10"
-"529","Joni Ernst","F","Republican","IA","1970-07-01"
-"530","Thom Tillis","M","Republican","NC","1960-08-30"
-"531","Mike Rounds","M","Republican","SD","1954-10-24"
-"532","Mark Walker","M","Republican","NC","1969-05-20"
-"533","Ben Sasse","M","Republican","NE","1972-02-22"
-"534","Daniel M. Donovan Jr.","M","Republican","NY","1956-11-06"
-"535","Trent Kelly","M","Republican","MS","1966-03-01"
-"536","Darin LaHood","M","Republican","IL","1968-07-05"
-"537","Warren Davidson","M","Republican","OH","1970-03-01"
-"538","Colleen Hanabusa","F","Democrat","HI","1951-05-04"
-"539","James Comer","M","Republican","KY","1972-08-19"
-"540","Dwight Evans","M","Democrat","PA","1954-05-16"
+"","official_full","gender","party","state","birthday","govtrack"
+"1","Maria Cantwell","F","Democrat","WA","1958-10-13",300018
+"3","Benjamin L. Cardin","M","Democrat","MD","1943-10-05",400064
+"5","Thomas R. Carper","M","Democrat","DE","1947-01-23",300019
+"6","Robert P. Casey, Jr.","M","Democrat","PA","1960-04-13",412246
+"7","Bob Corker","M","Republican","TN","1952-08-24",412248
+"9","Dianne Feinstein","F","Democrat","CA","1933-06-22",300043
+"10","Orrin G. Hatch","M","Republican","UT","1934-03-22",300052
+"12","Amy Klobuchar","F","Democrat","MN","1960-05-25",412242
+"13","Claire McCaskill","F","Democrat","MO","1953-07-24",412243
+"15","Robert Menendez","M","Democrat","NJ","1954-01-01",400272
+"17","Bill Nelson","M","Democrat","FL","1942-09-29",300078
+"18","Bernard Sanders","M","Independent","VT","1941-09-08",400357
+"20","Debbie Stabenow","F","Democrat","MI","1950-04-29",300093
+"22","Jon Tester","M","Democrat","MT","1956-08-21",412244
+"23","Sheldon Whitehouse","M","Democrat","RI","1955-10-20",412247
+"24","John Barrasso","M","Republican","WY","1952-07-21",412251
+"25","Roger F. Wicker","M","Republican","MS","1951-07-05",400432
+"27","Lamar Alexander","M","Republican","TN","1940-07-03",300002
+"29","Thad Cochran","M","Republican","MS","1937-12-07",300023
+"30","Susan M. Collins","F","Republican","ME","1952-12-07",300025
+"31","John Cornyn","M","Republican","TX","1952-02-02",300027
+"32","Richard J. Durbin","M","Democrat","IL","1944-11-21",300038
+"34","Michael B. Enzi","M","Republican","WY","1944-02-01",300041
+"35","Lindsey Graham","M","Republican","SC","1955-07-09",300047
+"37","James M. Inhofe","M","Republican","OK","1934-11-17",300055
+"39","Mitch McConnell","M","Republican","KY","1942-02-20",300072
+"40","Jeff Merkley","M","Democrat","OR","1956-10-24",412325
+"41","Jack Reed","M","Democrat","RI","1949-11-12",300081
+"43","James E. Risch","M","Republican","ID","1943-05-03",412322
+"44","Pat Roberts","M","Republican","KS","1936-04-20",300083
+"46","Jeff Sessions","M","Republican","AL","1946-12-24",300088
+"47","Jeanne Shaheen","F","Democrat","NH","1947-01-28",412323
+"48","Tom Udall","M","Democrat","NM","1948-05-18",400413
+"50","Mark R. Warner","M","Democrat","VA","1954-12-15",412321
+"52","Kirsten E. Gillibrand","F","Democrat","NY","1966-12-09",412223
+"54","Al Franken","M","Democrat","MN","1951-05-21",412378
+"55","Christopher A. Coons","M","Democrat","DE","1963-09-09",412390
+"56","Joe Manchin, III","M","Democrat","WV","1947-08-24",412391
+"57","Robert B. Aderholt","M","Republican","AL","1965-07-22",400004
+"58","Justin Amash","M","Republican","MI","1980-04-18",412438
+"59","Kelly Ayotte","F","Republican","NH","1968-06-27",412493
+"60","Tammy Baldwin","F","Democrat","WI","1962-02-11",400013
+"62","Lou Barletta","M","Republican","PA","1956-01-28",412469
+"63","Joe Barton","M","Republican","TX","1949-09-15",400018
+"65","Karen Bass","F","Democrat","CA","1953-10-03",412404
+"66","Xavier Becerra","M","Democrat","CA","1958-01-26",400021
+"67","Dan Benishek","M","Republican","MI","1952-04-20",412436
+"68","Michael F. Bennet","M","Democrat","CO","1964-11-28",412330
+"69","Gus M. Bilirakis","M","Republican","FL","1963-02-08",412250
+"70","Rob Bishop","M","Republican","UT","1951-07-13",400029
+"71","Sanford D. Bishop Jr.","M","Democrat","GA","1947-02-04",400030
+"72","Diane Black","F","Republican","TN","1951-01-16",412478
+"73","Marsha Blackburn","F","Republican","TN","1952-06-06",400032
+"74","Earl Blumenauer","M","Democrat","OR","1948-08-16",400033
+"75","Richard Blumenthal","M","Democrat","CT","1946-02-13",412490
+"76","Roy Blunt","M","Republican","MO","1950-01-10",400034
+"78","John Boozman","M","Republican","AR","1950-12-10",400040
+"80","Madeleine Z. Bordallo","F","Democrat","GU","1933-05-31",400041
+"81","Charles W. Boustany Jr.","M","Republican","LA","1956-02-21",400636
+"82","Barbara Boxer","F","Democrat","CA","1940-11-11",300011
+"85","Kevin Brady","M","Republican","TX","1955-04-11",400046
+"86","Robert A. Brady","M","Democrat","PA","1945-04-07",400047
+"87","Mo Brooks","M","Republican","AL","1954-04-29",412395
+"88","Corrine Brown","F","Democrat","FL","1946-11-11",400048
+"90","Vern Buchanan","M","Republican","FL","1951-05-08",412196
+"91","Larry Bucshon","M","Republican","IN","1962-05-31",412427
+"92","Michael C. Burgess","M","Republican","TX","1950-12-23",400052
+"93","Richard Burr","M","Republican","NC","1955-11-30",400054
+"95","G. K. Butterfield","M","Democrat","NC","1947-04-27",400616
+"96","Ken Calvert","M","Republican","CA","1953-06-08",400057
+"97","Shelley Moore Capito","F","Republican","WV","1953-11-26",400061
+"99","Lois Capps","F","Democrat","CA","1938-01-10",400062
+"100","Michael E. Capuano","M","Democrat","MA","1952-01-09",400063
+"102","John C. Carney Jr.","M","Democrat","DE","1956-05-20",412407
+"103","André Carson","M","Democrat","IN","1974-10-16",412258
+"104","John R. Carter","M","Republican","TX","1941-11-06",400068
+"105","Bill Cassidy","M","Republican","LA","1957-09-28",412269
+"107","Kathy Castor","F","Democrat","FL","1966-08-20",412195
+"109","Steve Chabot","M","Republican","OH","1953-01-22",400071
+"110","Jason Chaffetz","M","Republican","UT","1967-03-26",412270
+"111","Judy Chu","F","Democrat","CA","1953-07-07",412379
+"112","David N. Cicilline","M","Democrat","RI","1961-07-15",412470
+"113","Yvette D. Clarke","F","Democrat","NY","1964-11-21",412221
+"114","Wm. Lacy Clay","M","Democrat","MO","1956-07-27",400074
+"115","Emanuel Cleaver","M","Democrat","MO","1944-10-26",400639
+"116","James E. Clyburn","M","Democrat","SC","1940-07-21",400075
+"117","Daniel Coats","M","Republican","IN","1943-05-16",402675
+"118","Mike Coffman","M","Republican","CO","1955-03-19",412271
+"120","Steve Cohen","M","Democrat","TN","1949-05-24",412236
+"121","Tom Cole","M","Republican","OK","1949-04-28",400077
+"122","K. Michael Conaway","M","Republican","TX","1948-06-11",400655
+"124","Gerald E. Connolly","M","Democrat","VA","1950-03-30",412272
+"125","John Conyers Jr.","M","Democrat","MI","1929-05-16",400080
+"126","Jim Cooper","M","Democrat","TN","1954-06-19",400081
+"129","Jim Costa","M","Democrat","CA","1952-04-13",400618
+"130","Joe Courtney","M","Democrat","CT","1953-04-06",412193
+"131","Mike Crapo","M","Republican","ID","1951-05-20",300030
+"133","Eric A. ""Rick"" Crawford","M","Republican","AR","1966-01-22",412400
+"134","Ander Crenshaw","M","Independent","FL","1944-09-01",400086
+"135","Joseph Crowley","M","Democrat","NY","1962-03-16",400087
+"136","Henry Cuellar","M","Democrat","TX","1955-09-19",400657
+"137","John Abney Culberson","M","Republican","TX","1956-08-24",400089
+"138","Elijah E. Cummings","M","Democrat","MD","1951-01-18",400090
+"139","Danny K. Davis","M","Democrat","IL","1941-09-06",400093
+"140","Susan A. Davis","F","Democrat","CA","1944-04-13",400097
+"141","Peter A. DeFazio","M","Democrat","OR","1947-05-27",400100
+"143","Diana DeGette","F","Democrat","CO","1957-07-29",400101
+"144","Rosa L. DeLauro","F","Democrat","CT","1943-03-02",400103
+"145","Jeff Denham","M","Republican","CA","1967-07-29",412403
+"146","Charles W. Dent","M","Republican","PA","1960-05-24",400648
+"147","Scott DesJarlais","M","Republican","TN","1964-02-21",412477
+"148","Theodore E. Deutch","M","Democrat","FL","1966-05-07",412385
+"149","Mario Diaz-Balart","M","Republican","FL","1961-09-25",400108
+"150","Lloyd Doggett","M","Democrat","TX","1946-10-06",400111
+"151","Joe Donnelly","M","Democrat","IN","1955-09-28",412205
+"153","Michael F. Doyle","M","Democrat","PA","1953-08-05",400114
+"154","Sean P. Duffy","M","Republican","WI","1971-10-03",412488
+"155","Jeff Duncan","M","Republican","SC","1966-01-07",412472
+"156","John J. Duncan Jr.","M","Republican","TN","1947-07-21",400116
+"157","Donna F. Edwards","F","Democrat","MD","1958-06-28",412263
+"158","Keith Ellison","M","Democrat","MN","1963-08-04",412215
+"159","Renee L. Ellmers","F","Republican","NC","1964-02-09",412457
+"160","Eliot L. Engel","M","Democrat","NY","1947-02-18",400122
+"161","Anna G. Eshoo","F","Democrat","CA","1942-12-13",400124
+"162","Blake Farenthold","M","Republican","TX","1961-12-12",412482
+"163","Sam Farr","M","Democrat","CA","1941-07-04",400129
+"164","Stephen Lee Fincher","M","Republican","TN","1973-02-07",412479
+"165","Michael G. Fitzpatrick","M","Republican","PA","1963-06-28",400646
+"166","Jeff Flake","M","Republican","AZ","1962-12-31",400134
+"168","Charles J. ""Chuck"" Fleischmann","M","Republican","TN","1962-10-11",412476
+"169","John Fleming","M","Republican","LA","1951-07-05",412275
+"170","Bill Flores","M","Republican","TX","1954-02-25",412480
+"171","J. Randy Forbes","M","Republican","VA","1952-02-17",400137
+"172","Jeff Fortenberry","M","Republican","NE","1960-12-27",400640
+"173","Virginia Foxx","F","Republican","NC","1943-06-29",400643
+"174","Trent Franks","M","Republican","AZ","1957-06-19",400141
+"175","Rodney P. Frelinghuysen","M","Republican","NJ","1946-04-29",400142
+"176","Marcia L. Fudge","F","Democrat","OH","1952-10-29",412327
+"177","John Garamendi","M","Democrat","CA","1945-01-24",412382
+"178","Cory Gardner","M","Republican","CO","1974-08-22",412406
+"180","Scott Garrett","M","Republican","NJ","1959-07-09",400145
+"181","Bob Gibbs","M","Republican","OH","1954-06-14",412463
+"182","Christopher P. Gibson","M","Republican","NY","1964-05-13",412453
+"183","Louie Gohmert","M","Republican","TX","1953-08-18",400651
+"184","Bob Goodlatte","M","Republican","VA","1952-09-22",400154
+"185","Paul A. Gosar","M","Republican","AZ","1958-11-22",412397
+"186","Trey Gowdy","M","Republican","SC","1964-08-22",412473
+"187","Kay Granger","F","Republican","TX","1943-01-18",400157
+"188","Chuck Grassley","M","Republican","IA","1933-09-17",300048
+"189","Sam Graves","M","Republican","MO","1963-11-07",400158
+"190","Tom Graves","M","Republican","GA","1970-02-03",412388
+"191","Al Green","M","Democrat","TX","1947-09-01",400653
+"192","Gene Green","M","Democrat","TX","1947-10-17",400160
+"193","H. Morgan Griffith","M","Republican","VA","1958-03-15",412485
+"194","Raúl M. Grijalva","M","Democrat","AZ","1948-02-19",400162
+"195","Brett Guthrie","M","Republican","KY","1964-02-18",412278
+"196","Luis V. Gutiérrez","M","Democrat","IL","1953-12-10",400163
+"197","Richard L. Hanna","M","Republican","NY","1951-01-25",412454
+"198","Gregg Harper","M","Republican","MS","1956-06-01",412280
+"199","Andy Harris","M","Republican","MD","1957-01-25",412434
+"200","Vicky Hartzler","F","Republican","MO","1960-10-13",412444
+"201","Alcee L. Hastings","M","Democrat","FL","1936-09-05",400170
+"202","Joseph J. Heck","M","Republican","NV","1961-10-30",412446
+"203","Martin Heinrich","M","Democrat","NM","1971-10-17",412281
+"205","Jeb Hensarling","M","Republican","TX","1957-05-29",400175
+"206","Jaime Herrera Beutler","F","Republican","WA","1978-11-03",412486
+"207","Brian Higgins","M","Democrat","NY","1959-10-06",400641
+"208","James A. Himes","M","Democrat","CT","1966-07-05",412282
+"209","Rubén Hinojosa","M","Democrat","TX","1940-08-20",400179
+"210","Mazie K. Hirono","F","Democrat","HI","1947-11-03",412200
+"212","John Hoeven","M","Republican","ND","1957-03-13",412494
+"213","Michael M. Honda","M","Democrat","CA","1941-06-27",400185
+"214","Steny H. Hoyer","M","Democrat","MD","1939-06-14",400189
+"215","Tim Huelskamp","M","Republican","KS","1968-11-11",412429
+"216","Bill Huizenga","M","Republican","MI","1969-01-31",412437
+"217","Randy Hultgren","M","Republican","IL","1966-03-01",412422
+"218","Duncan Hunter","M","Republican","CA","1976-12-07",412283
+"219","Robert Hurt","M","Republican","VA","1969-06-16",412484
+"220","Johnny Isakson","M","Republican","GA","1944-12-28",400194
+"222","Steve Israel","M","Democrat","NY","1958-05-30",400195
+"223","Darrell E. Issa","M","Republican","CA","1953-11-01",400196
+"225","Sheila Jackson Lee","F","Democrat","TX","1950-01-12",400199
+"226","Lynn Jenkins","F","Republican","KS","1963-06-10",412284
+"227","Bill Johnson","M","Republican","OH","1954-11-10",412460
+"228","Eddie Bernice Johnson","F","Democrat","TX","1935-12-03",400204
+"229","Henry C. ""Hank"" Johnson Jr.","M","Democrat","GA","1954-10-02",412199
+"230","Ron Johnson","M","Republican","WI","1955-04-08",412496
+"231","Sam Johnson","M","Republican","TX","1930-10-11",400206
+"232","Walter B. Jones","M","Republican","NC","1943-02-10",400209
+"233","Jim Jordan","M","Republican","OH","1964-02-17",412226
+"234","Marcy Kaptur","F","Democrat","OH","1946-06-17",400211
+"235","William R. Keating","M","Democrat","MA","1952-09-06",412435
+"236","Mike Kelly","M","Republican","PA","1948-05-10",412465
+"237","Ron Kind","M","Democrat","WI","1963-03-16",400218
+"238","Peter T. King","M","Republican","NY","1944-04-05",400219
+"239","Steve King","M","Republican","IA","1949-05-28",400220
+"240","Adam Kinzinger","M","Republican","IL","1978-02-27",412421
+"241","Mark Kirk","M","Republican","IL","1959-09-15",400222
+"243","John Kline","M","Republican","MN","1947-09-06",400224
+"244","Raúl R. Labrador","M","Republican","ID","1967-12-08",412419
+"245","Doug Lamborn","M","Republican","CO","1954-05-24",412191
+"246","Leonard Lance","M","Republican","NJ","1952-06-25",412290
+"248","James R. Langevin","M","Democrat","RI","1964-04-22",400230
+"249","James Lankford","M","Republican","OK","1968-03-04",412464
+"251","Rick Larsen","M","Democrat","WA","1965-06-15",400232
+"252","John B. Larson","M","Democrat","CT","1948-07-22",400233
+"253","Robert E. Latta","M","Republican","OH","1956-04-18",412256
+"254","Patrick J. Leahy","M","Democrat","VT","1940-03-31",300065
+"255","Barbara Lee","F","Democrat","CA","1946-07-16",400237
+"256","Mike Lee","M","Republican","UT","1971-06-04",412495
+"257","Sander M. Levin","M","Democrat","MI","1931-09-06",400238
+"258","John Lewis","M","Democrat","GA","1940-02-21",400240
+"259","Daniel Lipinski","M","Democrat","IL","1966-07-15",400630
+"260","Frank A. LoBiondo","M","Republican","NJ","1946-05-12",400244
+"261","David Loebsack","M","Democrat","IA","1952-12-23",412209
+"262","Zoe Lofgren","F","Democrat","CA","1947-12-21",400245
+"263","Billy Long","M","Republican","MO","1955-08-11",412445
+"264","Nita M. Lowey","F","Democrat","NY","1937-07-05",400246
+"265","Frank D. Lucas","M","Republican","OK","1960-01-06",400247
+"266","Blaine Luetkemeyer","M","Republican","MO","1952-05-07",412292
+"267","Ben Ray Luján","M","Democrat","NM","1972-06-07",412293
+"268","Cynthia M. Lummis","F","Republican","WY","1954-09-10",412294
+"269","Stephen F. Lynch","M","Democrat","MA","1955-03-31",400249
+"271","Carolyn B. Maloney","F","Democrat","NY","1946-02-19",400251
+"272","Kenny Marchant","M","Republican","TX","1951-02-23",400656
+"273","Tom Marino","M","Republican","PA","1952-08-15",412468
+"274","Edward J. Markey","M","Democrat","MA","1946-07-11",400253
+"276","Doris O. Matsui","F","Democrat","CA","1944-09-25",400663
+"277","John McCain","M","Republican","AZ","1936-08-29",300071
+"279","Kevin McCarthy","M","Republican","CA","1965-01-26",412190
+"281","Michael T. McCaul","M","Republican","TX","1962-01-14",400654
+"282","Tom McClintock","M","Republican","CA","1956-07-10",412295
+"284","Betty McCollum","F","Democrat","MN","1954-07-12",400259
+"285","Jim McDermott","M","Democrat","WA","1936-12-28",400262
+"286","James P. McGovern","M","Democrat","MA","1959-11-20",400263
+"287","Patrick T. McHenry","M","Republican","NC","1975-10-22",400644
+"288","David B. McKinley","M","Republican","WV","1947-03-28",412487
+"289","Cathy McMorris Rodgers","F","Republican","WA","1969-05-22",400659
+"290","Jerry McNerney","M","Democrat","CA","1951-06-18",412189
+"291","Patrick Meehan","M","Republican","PA","1955-10-20",412466
+"292","Gregory W. Meeks","M","Democrat","NY","1953-09-25",400271
+"293","John L. Mica","M","Republican","FL","1943-01-27",400273
+"294","Barbara A. Mikulski","F","Democrat","MD","1936-07-20",300073
+"295","Candice S. Miller","F","Republican","MI","1954-05-07",400276
+"296","Jeff Miller","M","Republican","FL","1959-06-27",400279
+"297","Gwen Moore","F","Democrat","WI","1951-04-18",400661
+"298","Jerry Moran","M","Republican","KS","1954-05-29",400284
+"300","Mick Mulvaney","M","Republican","SC","1967-07-21",412474
+"301","Lisa Murkowski","F","Republican","AK","1957-05-22",300075
+"302","Christopher Murphy","M","Democrat","CT","1973-08-03",412194
+"304","Tim Murphy","M","Republican","PA","1952-09-11",400285
+"305","Patty Murray","F","Democrat","WA","1950-10-11",300076
+"306","Jerrold Nadler","M","Democrat","NY","1947-06-13",400289
+"307","Grace F. Napolitano","F","Democrat","CA","1936-12-04",400290
+"308","Richard E. Neal","M","Democrat","MA","1949-02-14",400291
+"309","Randy Neugebauer","M","Republican","TX","1949-12-24",400441
+"310","Kristi L. Noem","F","Republican","SD","1971-11-30",412475
+"311","Eleanor Holmes Norton","F","Democrat","DC","1937-06-13",400295
+"312","Richard B. Nugent","M","Republican","FL","1951-05-26",412409
+"313","Devin Nunes","M","Republican","CA","1973-10-01",400297
+"314","Pete Olson","M","Republican","TX","1962-12-09",412302
+"315","Steven M. Palazzo","M","Republican","MS","1970-02-21",412443
+"316","Frank Pallone Jr.","M","Democrat","NJ","1951-10-30",400308
+"318","Bill Pascrell Jr.","M","Democrat","NJ","1937-01-25",400309
+"319","Rand Paul","M","Republican","KY","1963-01-07",412492
+"320","Erik Paulsen","M","Republican","MN","1965-05-14",412303
+"321","Stevan Pearce","M","Republican","NM","1947-08-24",400313
+"323","Nancy Pelosi","F","Democrat","CA","1940-03-26",400314
+"324","Ed Perlmutter","M","Democrat","CO","1953-05-01",412192
+"325","Gary C. Peters","M","Democrat","MI","1958-12-01",412305
+"327","Collin C. Peterson","M","Democrat","MN","1944-06-29",400316
+"328","Pedro R. Pierluisi","M","Democrat","PR","1959-04-26",412306
+"329","Chellie Pingree","F","Democrat","ME","1955-04-02",412307
+"331","Joseph R. Pitts","M","Republican","PA","1939-10-10",400320
+"332","Ted Poe","M","Republican","TX","1948-09-10",400652
+"333","Jared Polis","M","Democrat","CO","1975-05-12",412308
+"334","Mike Pompeo","M","Republican","KS","1963-12-30",412431
+"335","Rob Portman","M","Republican","OH","1955-12-19",400325
+"337","Bill Posey","M","Republican","FL","1947-12-18",412309
+"338","David E. Price","M","Democrat","NC","1940-08-17",400326
+"339","Tom Price","M","Republican","GA","1954-10-08",400626
+"340","Mike Quigley","M","Democrat","IL","1958-10-17",412331
+"341","Charles B. Rangel","M","Democrat","NY","1930-06-11",400333
+"342","Tom Reed","M","Republican","NY","1971-11-18",412393
+"343","David G. Reichert","M","Republican","WA","1950-08-29",400660
+"344","Harry Reid","M","Democrat","NV","1939-12-02",300082
+"345","James B. Renacci","M","Republican","OH","1958-12-03",412462
+"346","Reid J. Ribble","M","Republican","WI","1956-04-05",412489
+"347","Cedric L. Richmond","M","Democrat","LA","1973-09-13",412432
+"348","E. Scott Rigell","M","Republican","VA","1960-05-28",412483
+"349","Martha Roby","F","Republican","AL","1976-07-27",412394
+"350","David P. Roe","M","Republican","TN","1945-07-21",412310
+"351","Harold Rogers","M","Republican","KY","1937-12-31",400340
+"352","Mike Rogers","M","Republican","AL","1958-07-16",400341
+"353","Dana Rohrabacher","M","Republican","CA","1947-06-21",400343
+"354","Todd Rokita","M","Republican","IN","1970-02-09",412426
+"355","Thomas J. Rooney","M","Republican","FL","1970-11-21",412311
+"356","Ileana Ros-Lehtinen","F","Republican","FL","1952-07-15",400344
+"357","Peter J. Roskam","M","Republican","IL","1961-09-13",412202
+"359","Dennis A. Ross","M","Republican","FL","1959-10-18",412411
+"360","Lucille Roybal-Allard","F","Democrat","CA","1941-06-12",400347
+"361","Edward R. Royce","M","Republican","CA","1951-10-12",400348
+"362","Marco Rubio","M","Republican","FL","1971-05-28",412491
+"363","C. A. Dutch Ruppersberger","M","Democrat","MD","1946-01-31",400349
+"364","Bobby L. Rush","M","Democrat","IL","1946-11-23",400350
+"365","Paul D. Ryan","M","Republican","WI","1970-01-29",400351
+"366","Tim Ryan","M","Democrat","OH","1973-07-16",400352
+"367","Gregorio Kilili Camacho Sablan","M","Democrat","MP","1955-01-19",412312
+"368","Loretta Sanchez","F","Democrat","CA","1960-01-07",400356
+"369","John P. Sarbanes","M","Democrat","MD","1962-05-22",412212
+"370","Steve Scalise","M","Republican","LA","1965-10-06",412261
+"371","Janice D. Schakowsky","F","Democrat","IL","1944-05-26",400360
+"372","Adam B. Schiff","M","Democrat","CA","1960-06-22",400361
+"373","Kurt Schrader","M","Democrat","OR","1951-10-19",412315
+"374","Charles E. Schumer","M","Democrat","NY","1950-11-23",300087
+"376","David Schweikert","M","Republican","AZ","1962-03-03",412399
+"378","Austin Scott","M","Republican","GA","1969-12-10",412417
+"379","David Scott","M","Democrat","GA","1945-06-27",400363
+"380","Robert C. ""Bobby"" Scott","M","Democrat","VA","1947-04-30",400364
+"381","Tim Scott","M","Republican","SC","1965-09-19",412471
+"383","F. James Sensenbrenner Jr.","M","Republican","WI","1943-06-14",400365
+"384","José E. Serrano","M","Democrat","NY","1943-10-24",400366
+"385","Pete Sessions","M","Republican","TX","1955-03-22",400367
+"386","Terri A. Sewell","F","Democrat","AL","1965-01-01",412396
+"387","Richard C. Shelby","M","Democrat","AL","1934-05-06",300089
+"388","Brad Sherman","M","Democrat","CA","1954-10-24",400371
+"389","John Shimkus","M","Republican","IL","1958-02-21",400373
+"390","Bill Shuster","M","Republican","PA","1961-01-10",409888
+"391","Michael K. Simpson","M","Republican","ID","1950-09-08",400376
+"392","Albio Sires","M","Democrat","NJ","1951-01-26",412186
+"393","Louise McIntosh Slaughter","F","Democrat","NY","1929-08-14",400378
+"394","Adam Smith","M","Democrat","WA","1965-06-15",400379
+"395","Adrian Smith","M","Republican","NE","1970-12-19",412217
+"396","Christopher H. Smith","M","Republican","NJ","1953-03-04",400380
+"397","Lamar Smith","M","Republican","TX","1947-11-19",400381
+"398","Jackie Speier","F","Democrat","CA","1950-05-14",412259
+"399","Steve Stivers","M","Republican","OH","1965-03-24",412461
+"400","Marlin A. Stutzman","M","Republican","IN","1976-08-31",412392
+"402","Linda T. Sánchez","F","Democrat","CA","1969-01-28",400355
+"403","Bennie G. Thompson","M","Democrat","MS","1948-01-28",400402
+"404","Mike Thompson","M","Democrat","CA","1951-01-24",400403
+"405","Glenn Thompson","M","Republican","PA","1959-07-27",412317
+"406","Mac Thornberry","M","Republican","TX","1958-07-15",400404
+"407","John Thune","M","Republican","SD","1961-01-07",400546
+"409","Patrick J. Tiberi","M","Republican","OH","1962-10-21",400406
+"410","Scott R. Tipton","M","Republican","CO","1956-11-09",412405
+"411","Paul Tonko","M","Democrat","NY","1949-06-18",412319
+"412","Patrick J. Toomey","M","Republican","PA","1961-11-17",400408
+"414","Niki Tsongas","F","Democrat","MA","1946-04-26",412254
+"415","Michael R. Turner","M","Republican","OH","1960-01-11",400411
+"417","Fred Upton","M","Republican","MI","1953-04-23",400414
+"418","Chris Van Hollen","M","Democrat","MD","1959-01-10",400415
+"419","Nydia M. Velázquez","F","Democrat","NY","1953-03-28",400416
+"420","Peter J. Visclosky","M","Democrat","IN","1949-08-13",400417
+"421","David Vitter","M","Republican","LA","1961-05-03",400418
+"423","Tim Walberg","M","Republican","MI","1951-04-12",412213
+"424","Greg Walden","M","Republican","OR","1957-01-10",400419
+"425","Timothy J. Walz","M","Democrat","MN","1964-04-06",412214
+"426","Debbie Wasserman Schultz","F","Democrat","FL","1966-09-27",400623
+"427","Maxine Waters","F","Democrat","CA","1938-08-15",400422
+"428","Daniel Webster","M","Republican","FL","1949-04-27",412410
+"430","Peter Welch","M","Democrat","VT","1947-05-02",412239
+"432","Lynn A. Westmoreland","M","Republican","GA","1950-04-02",400627
+"433","Joe Wilson","M","Republican","SC","1947-07-31",400433
+"434","Frederica S. Wilson","F","Democrat","FL","1942-11-05",412412
+"435","Robert J. Wittman","M","Republican","VA","1959-02-03",412255
+"436","Steve Womack","M","Republican","AR","1957-02-18",412402
+"437","Rob Woodall","M","Republican","GA","1970-02-11",412416
+"438","Ron Wyden","M","Democrat","OR","1949-05-03",300100
+"440","John A. Yarmuth","M","Democrat","KY","1947-11-04",412211
+"441","Kevin Yoder","M","Republican","KS","1976-01-08",412430
+"442","Don Young","M","Republican","AK","1933-06-09",400440
+"443","Todd C. Young","M","Republican","IN","1972-08-24",412428
+"444","Dean Heller","M","Republican","NV","1960-05-10",412218
+"446","Mark E. Amodei","M","Republican","NV","1958-06-12",412500
+"449","Suzanne Bonamici","F","Democrat","OR","1954-10-14",412501
+"450","Suzan K. DelBene","F","Democrat","WA","1962-02-17",412505
+"451","Thomas Massie","M","Republican","KY","1971-01-13",412503
+"452","Donald M. Payne Jr.","M","Democrat","NJ","1958-12-17",412506
+"453","Brian Schatz","M","Democrat","HI","1972-10-20",412507
+"455","Matt Salmon","M","Republican","AZ","1958-01-21",400606
+"457","Bill Foster","M","Democrat","IL","1955-10-07",412257
+"459","Alan Grayson","M","Democrat","FL","1958-03-13",412276
+"460","Ann Kirkpatrick","F","Democrat","AZ","1950-03-24",412286
+"461","Dina Titus","F","Democrat","NV","1950-05-23",412318
+"462","Tom Cotton","M","Republican","AR","1977-05-13",412508
+"464","Kyrsten Sinema","F","Democrat","AZ","1976-07-12",412509
+"465","Doug LaMalfa","M","Republican","CA","1960-07-02",412510
+"467","Jared Huffman","M","Democrat","CA","1964-02-18",412511
+"468","Ami Bera","M","Democrat","CA","1965-03-02",412512
+"469","Paul Cook","M","Republican","CA","1943-03-03",412513
+"470","Eric Swalwell","M","Democrat","CA","1980-11-16",412514
+"471","David G. Valadao","M","Republican","CA","1977-04-14",412515
+"472","Julia Brownley","F","Democrat","CA","1952-08-28",412516
+"473","Tony Cárdenas","M","Democrat","CA","1963-03-31",412517
+"474","Raul Ruiz","M","Democrat","CA","1972-08-25",412519
+"475","Mark Takano","M","Democrat","CA","1960-12-10",412520
+"476","Alan S. Lowenthal","M","Democrat","CA","1941-03-08",412521
+"477","Juan Vargas","M","Democrat","CA","1961-03-07",412522
+"478","Scott H. Peters","M","Democrat","CA","1958-06-17",412523
+"479","Elizabeth H. Esty","F","Democrat","CT","1959-08-25",412524
+"480","Ted S. Yoho","M","Republican","FL","1955-04-13",412525
+"481","Ron DeSantis","M","Republican","FL","1978-09-14",412526
+"482","Patrick Murphy","M","Democrat","FL","1983-03-30",412527
+"483","Lois Frankel","F","Democrat","FL","1948-05-16",412529
+"485","Doug Collins","M","Republican","GA","1966-08-16",412531
+"486","Tulsi Gabbard","F","Democrat","HI","1981-04-12",412532
+"487","Tammy Duckworth","F","Democrat","IL","1968-03-12",412533
+"488","Rodney Davis","M","Republican","IL","1970-01-05",412536
+"489","Cheri Bustos","F","Democrat","IL","1961-10-17",412537
+"490","Jackie Walorski","F","Republican","IN","1963-08-17",412538
+"491","Susan W. Brooks","F","Republican","IN","1960-08-25",412539
+"492","Luke Messer","M","Republican","IN","1969-02-27",412540
+"494","Andy Barr","M","Republican","KY","1973-07-24",412541
+"495","Elizabeth Warren","F","Democrat","MA","1949-06-22",412542
+"496","Joseph P. Kennedy III","M","Democrat","MA","1980-10-04",412543
+"497","John K. Delaney","M","Democrat","MD","1963-04-16",412544
+"498","Angus S. King, Jr.","M","Independent","ME","1944-03-31",412545
+"499","Daniel T. Kildee","M","Democrat","MI","1958-08-11",412546
+"500","Richard M. Nolan","M","Democrat","MN","1943-12-17",408211
+"501","Ann Wagner","F","Republican","MO","1962-09-13",412548
+"502","Steve Daines","M","Republican","MT","1962-08-20",412549
+"504","Richard Hudson","M","Republican","NC","1971-11-04",412550
+"505","Robert Pittenger","M","Republican","NC","1948-08-15",412551
+"506","Mark Meadows","M","Republican","NC","1959-07-28",412552
+"507","George Holding","M","Republican","NC","1968-04-17",412553
+"508","Heidi Heitkamp","F","Democrat","ND","1955-10-30",412554
+"509","Kevin Cramer","M","Republican","ND","1961-01-21",412555
+"511","Deb Fischer","F","Republican","NE","1951-03-01",412556
+"512","Ann M. Kuster","F","Democrat","NH","1956-09-05",412557
+"513","Michelle Lujan Grisham","F","Democrat","NM","1959-10-24",412558
+"514","Grace Meng","F","Democrat","NY","1975-10-01",412560
+"515","Hakeem S. Jeffries","M","Democrat","NY","1970-08-04",412561
+"516","Sean Patrick Maloney","M","Democrat","NY","1966-07-30",412562
+"517","Chris Collins","M","Republican","NY","1950-05-20",412563
+"518","Brad R. Wenstrup","M","Republican","OH","1958-06-17",412564
+"519","Joyce Beatty","F","Democrat","OH","1950-03-12",412565
+"520","David P. Joyce","M","Republican","OH","1957-03-17",412566
+"521","Jim Bridenstine","M","Republican","OK","1975-06-15",412567
+"522","Markwayne Mullin","M","Republican","OK","1977-07-26",412568
+"523","Scott Perry","M","Republican","PA","1962-05-27",412569
+"524","Keith J. Rothfus","M","Republican","PA","1962-04-25",412570
+"525","Matt Cartwright","M","Democrat","PA","1961-05-01",412571
+"526","Tom Rice","M","Republican","SC","1957-08-04",412572
+"527","Ted Cruz","M","Republican","TX","1970-12-22",412573
+"528","Randy K. Weber Sr.","M","Republican","TX","1953-07-02",412574
+"529","Beto O'Rourke","M","Democrat","TX","1972-09-26",412575
+"530","Joaquin Castro","M","Democrat","TX","1974-09-16",412576
+"531","Roger Williams","M","Republican","TX","1949-09-13",412578
+"533","Marc A. Veasey","M","Democrat","TX","1971-01-03",412579
+"534","Filemon Vela","M","Democrat","TX","1963-02-13",412580
+"535","Chris Stewart","M","Republican","UT","1960-07-15",412581
+"536","Tim Kaine","M","Democrat","VA","1958-02-26",412582
+"537","Derek Kilmer","M","Democrat","WA","1974-01-01",412583
+"538","Denny Heck","M","Democrat","WA","1952-07-29",412584
+"539","Mark Pocan","M","Democrat","WI","1964-08-14",412585
+"540","Robin L. Kelly","F","Democrat","IL","1956-04-30",412595
+"541","Mark Sanford","M","Republican","SC","1960-05-28",400607
+"542","Jason Smith","M","Republican","MO","1980-06-16",412596
+"543","Cory A. Booker","M","Democrat","NJ","1969-04-27",412598
+"544","Katherine M. Clark","F","Democrat","MA","1963-07-17",412600
+"545","Bradley Byrne","M","Republican","AL","1955-02-16",412601
+"546","David W. Jolly","M","Republican","FL","1972-10-31",412603
+"547","Curt Clawson","M","Republican","FL","1959-09-28",412604
+"548","Dave Brat","M","Republican","VA","1964-07-27",412605
+"549","Donald Norcross","M","Democrat","NJ","1958-12-13",412606
+"550","Alma S. Adams","F","Democrat","NC","1946-05-27",412607
+"551","Robert J. Dold","M","Republican","IL","1969-06-23",412420
+"552","Frank C. Guinta","M","Republican","NH","1970-09-26",412447
+"553","Gary J. Palmer","M","Republican","AL","1954-05-14",412608
+"554","J. French Hill","M","Republican","AR","1956-12-05",412609
+"555","Bruce Westerman","M","Republican","AR","1967-11-18",412610
+"556","Martha McSally","F","Republican","AZ","1966-03-22",412611
+"557","Ruben Gallego","M","Democrat","AZ","1979-11-20",412612
+"558","Mark DeSaulnier","M","Democrat","CA","1952-03-31",412613
+"559","Stephen Knight","M","Republican","CA","1966-12-17",412614
+"560","Pete Aguilar","M","Democrat","CA","1979-06-19",412615
+"561","Ted Lieu","M","Democrat","CA","1969-03-29",412616
+"562","Norma J. Torres","F","Democrat","CA","1965-04-04",412617
+"563","Mimi Walters","F","Republican","CA","1962-05-14",412618
+"564","Ken Buck","M","Republican","CO","1959-02-16",412619
+"566","Gwen Graham","F","Democrat","FL","1963-01-31",412620
+"567","Carlos Curbelo","M","Republican","FL","1980-03-01",412621
+"568","Earl L. ""Buddy"" Carter","M","Republican","GA","1957-09-06",412622
+"569","Jody B. Hice","M","Republican","GA","1960-04-22",412623
+"570","Barry Loudermilk","M","Republican","GA","1963-12-22",412624
+"571","Rick W. Allen","M","Republican","GA","1951-11-07",412625
+"572","Rod Blum","M","Republican","IA","1955-04-26",412627
+"573","David Young","M","Republican","IA","1968-05-11",412628
+"575","Mike Bost","M","Republican","IL","1960-12-30",412629
+"576","Ralph Lee Abraham","M","Republican","LA","1954-09-16",412630
+"577","Garret Graves","M","Republican","LA","1972-01-31",412631
+"578","Seth Moulton","M","Democrat","MA","1978-10-24",412632
+"579","Bruce Poliquin","M","Republican","ME","1953-11-01",412633
+"581","John R. Moolenaar","M","Republican","MI","1961-05-08",412634
+"582","Mike Bishop","M","Republican","MI","1967-03-18",412635
+"583","David A. Trott","M","Republican","MI","1960-10-16",412636
+"584","Debbie Dingell","F","Democrat","MI","1953-11-23",412637
+"585","Brenda L. Lawrence","F","Democrat","MI","1954-10-18",412638
+"586","Tom Emmer","M","Republican","MN","1961-03-03",412639
+"587","Ryan K. Zinke","M","Republican","MT","1961-11-01",412640
+"588","David Rouzer","M","Republican","NC","1972-02-16",412641
+"589","Brad Ashford","M","Democrat","NE","1949-11-10",412642
+"590","Thomas MacArthur","M","Republican","NJ","1960-10-16",412643
+"591","Bonnie Watson Coleman","F","Democrat","NJ","1945-02-06",412644
+"592","Cresent Hardy","M","Republican","NV","1957-06-23",412645
+"593","Lee M. Zeldin","M","Republican","NY","1980-01-30",412646
+"594","Kathleen M. Rice","F","Democrat","NY","1965-02-15",412647
+"595","Elise M. Stefanik","F","Republican","NY","1984-07-02",412648
+"596","John Katko","M","Republican","NY","1962-11-09",412649
+"597","Steve Russell","M","Republican","OK","1963-05-25",412650
+"598","Ryan A. Costello","M","Republican","PA","1976-09-07",412651
+"599","Brendan F. Boyle","M","Democrat","PA","1977-02-06",412652
+"600","John Ratcliffe","M","Republican","TX","1965-10-20",412653
+"601","Will Hurd","M","Republican","TX","1977-08-19",412654
+"602","Brian Babin","M","Republican","TX","1948-03-23",412655
+"603","Mia B. Love","F","Republican","UT","1975-12-06",412656
+"604","Donald S. Beyer Jr.","M","Democrat","VA","1950-06-20",412657
+"605","Barbara Comstock","F","Republican","VA","1959-06-30",412658
+"606","Stacey E. Plaskett","F","Democrat","VI","1964-05-13",412659
+"607","Dan Newhouse","M","Republican","WA","1955-07-10",412660
+"608","Glenn Grothman","M","Republican","WI","1955-07-03",412661
+"609","Alexander X. Mooney","M","Republican","WV","1971-06-05",412662
+"610","Evan H. Jenkins","M","Republican","WV","1960-09-12",412663
+"611","Aumua Amata Coleman Radewagen","F","Republican","AS","1947-12-29",412664
+"612","Daniel Sullivan","M","Republican","AK","1964-11-13",412665
+"613","David Perdue","M","Republican","GA","1949-12-10",412666
+"614","Joni Ernst","F","Republican","IA","1970-07-01",412667
+"615","Thom Tillis","M","Republican","NC","1960-08-30",412668
+"616","Mike Rounds","M","Republican","SD","1954-10-24",412669
+"617","Mark Walker","M","Republican","NC","1969-05-20",412670
+"618","Ben Sasse","M","Republican","NE","1972-02-22",412671
+"619","Daniel M. Donovan Jr.","M","Republican","NY","1956-11-06",412672
+"620","Trent Kelly","M","Republican","MS","1966-03-01",412673
+"621","Darin LaHood","M","Republican","IL","1968-07-05",412674
+"622","Warren Davidson","M","Republican","OH","1970-03-01",412675
+"623","Colleen Hanabusa","F","Democrat","HI","1951-05-04",412418
+"625","James Comer","M","Republican","KY","1972-08-19",412676
+"626","Dwight Evans","M","Democrat","PA","1954-05-16",412677
