@@ -15,7 +15,7 @@ congTwit = []
 for row in congSoc:
     congTwit.append(row[3])
 csvfile.close()
-x = 336
+x = 1
 for _ in congTwit:
     x += 1
     base_url = u'https://twitter.com/'
@@ -30,7 +30,7 @@ for _ in congTwit:
     body = browser.find_element_by_tag_name('body')
 
 
-    for _ in range(500):
+    for _ in range(650):
         body.send_keys(Keys.PAGE_DOWN)
         time.sleep(0.25)
 
