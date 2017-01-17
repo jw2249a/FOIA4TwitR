@@ -5,4 +5,4 @@
 
 #### A web scraper for Twitter that doesn't really scrape so much as browse. 
 
-Written Late at night, more efficient method next time
+*Written Late at night, more efficient method next time*
