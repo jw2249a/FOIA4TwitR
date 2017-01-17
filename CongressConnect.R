@@ -1,4 +1,5 @@
 library(yaml)
+library(dplyr)
 # File that will connect the social media data to specific congressmen 
 # get the awesome congressional Data from https://github.com/unitedstates/congress-legislators
 
@@ -18,7 +19,7 @@ for (i in 1:length(congData)) {
   z <- as.data.frame.list(c(congData[[x]]$name, congData[[x]]$bio, congData[[x]]$terms, congData[[x]]$id))
   z <- list(z$official_full, z$gender, z$party, z$state, z$birthday, z$govtrack)
   names(z) <- c('official_full', 'gender', 'party', 'state', 'birthday', 'govtrack')
-  w <- merge(w, z, all = T)
+  w <- join(w, z, all = T)
   
   x <- x+1
 }
