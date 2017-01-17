@@ -7,4 +7,6 @@
 
 *Written Late at night, more efficient method next time*
 
-### [View Results](https://drive.google.com/drive/folders/0BwB29uwTPI1FUnE1VjR2LXd6cHc?usp=sharing)
+### [Results](https://drive.google.com/drive/folders/0BwB29uwTPI1FUnE1VjR2LXd6cHc?usp=sharing)
+
+*over 35,000 tweets from nearly 600 twitter handles covering all current congressmen*
