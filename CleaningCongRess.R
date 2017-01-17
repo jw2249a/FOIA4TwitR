@@ -1,4 +1,5 @@
 library(stringr)
+library(dplyr)
 #Time to clean this filthy Data
 #going to merge the files into a single directory
 
@@ -12,7 +13,7 @@ pgresCAUC <- read.csv('ProgressiveCaucus.csv', header = F, as.is = 1)
 
 connectData <- subset(unique(connectData), govtrack %in% twitData$govtrack)
 
-mergedataset <- merge(twitData, connectData, by = 'govtrack')
+mergedataset <- join(twitData, connectData, by = 'govtrack')
   
 mergedataset <- mergedataset[!is.na(mergedataset$twitter), ]
 mergedataset$official_full <- as.character(mergedataset$official_full)
